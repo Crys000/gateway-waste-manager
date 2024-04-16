@@ -1,0 +1,1 @@
+# gateway-waste-manager
