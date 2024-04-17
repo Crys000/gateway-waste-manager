@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: waste-manager-gateway
+    
+  
+  config:
+    import: optional:configserver:http://wastemanager:adm*2024*@localhost:8888
